@@ -1,0 +1,2 @@
+dataset: https://www.kaggle.com/datasets/marwanelmahalawy/fake-news
+My kaggle account: https://www.kaggle.com/marwanelmahalawy
